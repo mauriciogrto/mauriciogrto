@@ -19,7 +19,7 @@ Uso Codex e Claude durante a implementação, com regras de projeto, contexto or
 
 - [Nesting a Laser](https://github.com/mauriciogrto/nesting-laser) — encaixe de peças DXF em chapas, com estoque, retalhos e exportação técnica em Laravel, Python e Node.js.
 - [Força de Vendas](https://github.com/mauriciogrto/forca-vendas) — PWA comercial com importação de planilhas e montagem de orçamentos e pedidos.
-- [Orçamentos](https://github.com/mauriciogrto/orcamentos) — gestão comercial multiempresa, comissão e geração de PDFs.
+- [Orçamentos (em revisão)](https://github.com/mauriciogrto/orcamentos) — gestão comercial multiempresa, comissão e geração de PDFs.
 
 ## Como trabalho
 
