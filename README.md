@@ -25,6 +25,6 @@ Uso Codex e Claude durante a implementação, com regras de projeto, contexto or
 
 Defino o problema e as decisões de arquitetura, organizo o contexto dos agentes e verifico as entregas com testes e conferência dos fluxos. Documento as validações realizadas e as limitações de cada versão.
 
-**[Conheça o portfólio técnico e os estudos de caso →](https://grxsistemas.com.br/portfolio)**
+**[Conheça o portfólio técnico e os estudos de caso →](https://grxsistemas.com.br/portifolio)**
 
 [GRX Sistemas](https://grxsistemas.com.br/) · [contato@grxsistemas.com.br](mailto:contato@grxsistemas.com.br)
