@@ -4,7 +4,6 @@
 
 Sou desenvolvedor web e de sistemas e fundador da [GRX Sistemas](https://grxsistemas.com.br/), na Serra Gaúcha, RS. Construo soluções para indústria, mobilidade e operações comerciais, da especificação à publicação.
 
-Uso Codex e Claude durante a implementação, com regras de projeto, contexto organizado por fase e validação das entregas.
 
 **PHP · Laravel · React · MySQL/MariaDB · Python · Node.js**
 
